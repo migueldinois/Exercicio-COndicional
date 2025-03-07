@@ -25,7 +25,7 @@ lado3 = int(input("Quantos metros tem o terceiro lado?"))
 somados2 = lado2 + lado3
 valordiferenca = lado2 - lado3
 
-if ((lado1 < somados2 )) and ((lado1 > valordiferenca)):
+if 
 
 
 else:
